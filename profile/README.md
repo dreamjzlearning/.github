@@ -1,1 +1,1 @@
-Just my learning plan and notes
+My learning plan, notes and tools
